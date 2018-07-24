@@ -79,8 +79,6 @@
       <h3>关于作者</h3>
       <ul>
         <li>Seumi</li>
-        <li>Email：seumi@qq.com</li>
-        <li>代码托管：<a href="https://github.com/Seumi/PneumaProject" target="_blank">Github</a> </li>
       </ul>
     </div>
   </div>
