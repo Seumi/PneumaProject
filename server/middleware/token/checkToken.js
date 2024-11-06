@@ -16,7 +16,7 @@ module.exports = async (ctx, next) => {
         let username = decoded.username;
         let userID = decoded.userID;
 
-        if (username === 'admin' && userID === '1') {
+        if (username === 'user001' && userID === '1') {
             await next();
         } else {
             return (ctx.body = {

@@ -42,7 +42,7 @@ export default {
     return {
       islogin: false,
       loginForm: {
-        username: "admin",
+        username: "user001",
         password: "123"
       },
       rules: {
